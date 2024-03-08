@@ -3,6 +3,7 @@
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)
+![HTMX](https://img.shields.io/badge/htmx-007bff?style=for-the-badge&logo=htmx&logoColor=white)
 
 <!--
 **yoptohlejepeta/yoptohlejepeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
