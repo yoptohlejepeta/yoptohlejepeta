@@ -6,6 +6,8 @@
 <br>
 ![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoptohlejepeta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **yoptohlejepeta/yoptohlejepeta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
