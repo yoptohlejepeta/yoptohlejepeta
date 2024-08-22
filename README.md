@@ -1,14 +1,13 @@
 # ⚡yoptohlejepeta⚡
 | | |
 |---|---|
-|languages  |![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  |
-|frontend   |![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   |
+|languages  |![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)  |
+|frontend   |![HTMX](https://img.shields.io/badge/%3C/%3E%20htmx-3366CC?style=for-the-badge&logo=mysl&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)   |
 |databases   |![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)   |
-|docs  | ![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)![GitBook](https://img.shields.io/badge/gitbook-%23181717.svg?style=for-the-badge&logo=gitbook&logoColor=white) |
-|other  | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) |
+|docs  | ![Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)![GitBook](https://img.shields.io/badge/gitbook-%23BBDDE5.svg?style=for-the-badge&logo=gitbook&logoColor=black) |
+|other  | ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)![Ruff](https://img.shields.io/badge/ruff-%23D7FF64.svg?style=for-the-badge&logo=ruff&logoColor=black) |
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoptohlejepeta&theme=dracula" alt="mystreak"/>
-
 <!--
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoptohlejepeta&theme=tokyonight" alt="mystreak"/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoptohlejepeta&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
